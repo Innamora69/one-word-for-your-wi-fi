@@ -1,0 +1,1 @@
+{"description":"One Word for Your Wi-Fi — a single word describing home Wi-Fi, written to /output/entry.txt","license":"MIT","main":"main.ts","name":"one-word-for-your-wi-fi","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
